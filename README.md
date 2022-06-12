@@ -2,7 +2,7 @@
 Wordpress meta box with add more feature
 
 Hi, This is Anmol Singh
-Today we are are going to add meta boxes in specific page with wordpress media picker, with URL and a title.
+Today we are are going to add meta boxes in pages with wordpress media picker, with URL and a title.
 
 The main feature we are gointg to do, and also key is add more button that add more fields and a remove button that remove it
 
